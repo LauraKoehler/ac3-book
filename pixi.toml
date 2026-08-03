@@ -34,6 +34,7 @@ sphinx = ">=7.3.7,<8"
 ipykernel = ">=7.3.0,<8"
 fsspec = ">=2026.6.0,<2027"
 dask = ">=2026.6.0,<2027"
+scipy = ">=1.18.0,<2"
 
 [pypi-dependencies]
-pangaeapy = ">=1.1.0, <2"
+pangaeapy = ">=1.1.2, <2"

@@ -37,13 +37,18 @@ This book is being build as a place of exchange for researches inside and outsid
   - [ ] P6
   - [ ] Polarstern
   - [ ] Spaceborne
+    - [ ] CALIOP
+    - [ ] MISR
   - [ ] Ground based
 - [ ] Add short model descriptions
   - [ ] ICON
   - [ ] ICON-LEM
   - [ ] ERA5
-  - [ ] Merra
+  - [ ] Merra2
   - [ ] Carra
+  - [ ] GEOS-CHEM
+  - [ ] HYSPLIT
+  - [ ] FESOM
 - [ ] Add software
   - [ ] PAMTRA
   - [ ] pyRadTran
